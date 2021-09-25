@@ -26,5 +26,5 @@ class Diagnostico():
         resp = pag.confirm(title="Sistema Especialista", text=self.status()+"\n\n"+pergunta, buttons=["Sim","Não"])
         if resp : relatorio.adicionar('\n'+pergunta+' '+resp)
         if resp == "Sim" : self.exclui_quem_nao_bate(estado)
-        elif resp == "Não" : self.exclui_quem_bate(estado)
+        elif resp == "Não" : self.exclui_quem_nao_bate('n_'+estado)
         else : exit(1)
