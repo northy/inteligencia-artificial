@@ -1,0 +1,4 @@
+Seu Pet está agitado?:agitado
+O seu Pet está comendo bem?:alimentado
+O ambiente é adequado?:ambiente_adequado
+O seu Pet fez atividade física?:se_movimenta
