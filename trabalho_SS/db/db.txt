@@ -1,19 +1,34 @@
-agitado-estressado
-agitado-faminto
-agitado-saudavel
-n_agitado-cansado
-n_agitado-faminto
-n_agitado-deprimido
-n_agitado-saudavel
-alimentado-cansado
-alimentado-estressado
-alimentado-deprimido
-alimentado-saudavel
-n_alimentado-faminto
-ambiente_adequado-saudavel
-ambiente_adequado-cansado
-n_ambiente_adequado-estressado
-n_ambiente_adequado-deprimido
-se_movimenta-saudavel
-n_se_movimenta-deprimido
-n_se_movimenta-cansado
+esquina-investimento ruim
+esquina-investimento ok
+esquina-investimento bom
+esquina-investimento otimo
+n_esquina-investimento pessimo
+n_esquina-investimento ruim
+n_esquina-investimento ok
+n_esquina-investimento bom
+bonita-investimento ok
+bonita-investimento bom
+bonita-investimento otimo
+n_bonita-investimento pessimo
+n_bonita-investimento ruim
+n_bonita-investimento ok
+bem_localizada-investimento ok
+bem_localizada-investimento bom
+bem_localizada-investimento otimo
+n_bem_localizada-investimento pessimo
+n_bem_localizada-investimento ruim
+n_bem_localizada-investimento ok
+alvenaria-investimento ruim
+alvenaria-investimento ok
+alvenaria-investimento bom
+alvenaria-investimento otimo
+n_alvenaria-investimento pessimo
+n_alvenaria-investimento ruim
+n_alvenaria-investimento ok
+n_alvenaria-investimento otimo
+grande-investimento ok
+grande-investimento bom
+grande-investimento otimo
+n_grande-investimento pessimo
+n_grande-investimento ruim
+n_grande-investimento ok

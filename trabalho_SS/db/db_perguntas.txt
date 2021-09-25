@@ -1,4 +1,5 @@
-Seu Pet está agitado?:agitado
-O seu Pet está comendo bem?:alimentado
-O ambiente é adequado?:ambiente_adequado
-O seu Pet fez atividade física?:se_movimenta
+A casa está localizada na esquina?:esquina
+A beleza da casa lhe agrada?:bonita
+A casa está situada em uma parte 'boa' da cidade?:bem_localizada
+A casa é de alvenaria?:alvenaria
+O tamanho do terreno da casa é grande?:grande

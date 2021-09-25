@@ -16,7 +16,7 @@ class Diagnostico():
         return 100//len(self.resultado)
     
     def status(self)->str :
-        return "O sistema está {}% decidido, seu pet {}:\n• {}".format(self.probabilidade(),'está' if self.probabilidade()==100 else 'pode estar','\n• '.join(self.resultado))
+        return "O sistema está {}% decidido, seu imovel {}:\n• {}".format(self.probabilidade(),'é' if self.probabilidade()==100 else 'pode ser','\n• '.join(self.resultado))
 
     def exclui_quem_nao_bate(self, estadoPergunta): self.resultado = set(filter(lambda x : x in self.db[estadoPergunta], self.resultado))
 
